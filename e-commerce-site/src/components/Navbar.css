@@ -1,0 +1,44 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.nav-element{
+    margin: 0px;
+    background-color: aqua;
+}
+
+.inputField{
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    margin: 6px 0;
+    box-sizing: border-box;
+  }
+  
+  .inputField:focus{
+    border-color: rgb(32, 213, 241);
+    box-shadow: 0 0 8px 0 rgb(0, 217, 251) ;
+  }
+  
+  .searchBar{
+    width: 500px;
+  }
+
+  .logo{
+    font-size: xx-large;
+    margin: 15px;
+  }
+
+  .cart{
+    font-size: x-large;
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .cur{
+    cursor: pointer;
+  }
