@@ -20,9 +20,42 @@ function App() {
 
   const addItemsToCart = (item) => {
 
-    setCartItems([...cartItems,{...item,itemCount : 1}])
-    // console.log(cartItems)
+    
+    // console.log(cartItems.toString()==[].toString())
+    if(cartItems.toString()==[].toString())
+    {
+        setCartItems([...cartItems,{...item,itemCount : 1}])
+    }
+    else{
+      
+      for(let i=0;i<cartItems.length;i++)
+      {
+        
+        if(cartItems[i].id===item.id)
+        {
+          alert("Item already in the cart")
+          
+          return
+        }
+        
+      }
+    
+      setCartItems([...cartItems,{...item,itemCount : 1}])
+      
+    }
 
+
+  }
+
+  const deleteItemsFromCart = (index,setItems) => {
+    if(window.confirm("Press OK to remove the item from cart")===true)
+    {
+        let array = [...cartItems]
+        array.splice(index,1)
+        setCartItems(array)
+        setItems(array)
+       
+    }
   }
   
 
@@ -52,7 +85,7 @@ function App() {
        <BrowserRouter>
         <Routes>
           <Route path='/' element={<div><Navbar count={cartItems.length} search={search} setSearch={setSearch}/><ProductList product={product}  addItemsToCart={addItemsToCart} search={search}/></div>} />
-          <Route path='/cart' element={<Ecart cartItems={cartItems} count={cartItems.length}/>} />
+          <Route path='/cart' element={<Ecart cartItems={cartItems} count={cartItems.length} deleteItemsFromCart={deleteItemsFromCart}/>} />
           <Route path='/submit_form' element={<ProductDes/>} />
         </Routes>
       </BrowserRouter>

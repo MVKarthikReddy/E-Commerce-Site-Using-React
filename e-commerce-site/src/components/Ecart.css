@@ -1,0 +1,36 @@
+.cart-item{
+    width: 40%;
+    height: 40%;
+    padding: 10px;    
+
+}
+
+.item-price{
+    width: 30%;
+    height: 40%;
+    padding: 10px;    
+}
+
+.item-details{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-name{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#total-price{
+    font-size: 130%;
+    font-weight: 550;
+    font-family:  Verdana, sans-serif;
+}
+
+button{
+    padding: 5px;
+    cursor: pointer;
+}

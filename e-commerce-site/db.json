@@ -5,6 +5,7 @@
       "url": "https://m.media-amazon.com/images/I/718bSZO8++L._UL1500_.jpg",
       "brand" : "Sparx",
       "name": "Sparx Mens Sm-648 Sneaker",
+      "details" : "Breathable Mesh Uppers one-piece ultra-lightweight mesh knit upper has thousands of ventilation holes. It helps your feet dry and comfy. Feel Soft, Comfortable & Breathable with all day wear.The special veins design of the shoe body gives simplicity but not lack of fashion.",
       "category": "Shoes",
       "seller": "Alibaba",
       "price": "879"
@@ -14,6 +15,7 @@
       "url": "https://5.imimg.com/data5/KC/PC/MY-38629861/dummy-chronograph-watch-500x500.jpg",
       "brand" : "Lorem",
       "name": "LOREM Watch Black",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Watch Ltd Siyana",
       "price": "2599"
@@ -23,24 +25,27 @@
       "url": "https://m.media-amazon.com/images/I/51YFAdCsHhL._AC_UL400_.jpg",
       "brand" : "Puma",
       "name": "Mens BMW MMS X-ray Speed Sneaker",
+      "details" : "Breathable Mesh Uppers one-piece ultra-lightweight mesh knit upper has thousands of ventilation holes. It helps your feet dry and comfy. Feel Soft, Comfortable & Breathable with all day wear.The special veins design of the shoe body gives simplicity but not lack of fashion.",
       "category": "Shoes",
       "seller": "Delhi Laptops",
       "price": "4899"
     },
     {
       "id" : 4,
-      "url": "https://m.media-amazon.com/images/I/61WFNqf8hVL._AC_UY218_.jpg",
+      "url": "https://m.media-amazon.com/images/I/61G9yF+ZbEL._AC_UY218_.jpg",
       "brand" : "Sony",
-      "name": "Sony WH-1000XM4",
-      "category": "Head Phones",
+      "name": "Sony WF-1000XM4",
+      "details" : "Sweatproof, 60H Playtime Wireless, IPX5 Water Resistant, Environmental Noise Cancellation, Touch Controls and Voice Assistant, Fast Charging, Microphone Included",
+      "category": "Ear Buds",
       "seller": "Camron LTD",
-      "price": "22949"
+      "price": "11949"
     },
     {
       "id" : 5,
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9e8Axt-h9q8EIybKfjGzbkIWJAr50_BX7Q&usqp=CAU",
       "brand" : "Smart Bit",
-      "name": "Watch Pink",
+      "name": "Shiny pink Watch",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Watch Ltd",
       "price": "2000"
@@ -49,16 +54,18 @@
       "id" : 6,
       "url": "https://m.media-amazon.com/images/I/91y34gkZjwL._AC_SL1500_.jpg",
       "brand" : "Safe Tone",
-      "name": "AMZ Laptop 8GB RAM",
+      "name": "SafeTone verve buds pro",
+      "details" : "Sweatproof, 60H Playtime Wireless, IPX5 Water Resistant, Environmental Noise Cancellation, Touch Controls and Voice Assistant, Fast Charging, Microphone Included",
       "category": "Ear Buds",
       "seller": "Delhi Laptops",
-      "price": "50000"
+      "price": "2345"
     },
     {
       "id" : 7,
       "url": "https://m.media-amazon.com/images/I/7171pjrVQ4L._UL1500_.jpg",
       "brand" : "Fit Bit",
       "name": "Black Watch",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Camron LTD",
       "price": "4000"
@@ -68,6 +75,7 @@
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61NYXFj6KcL._AC_UL160_SR160,160_.jpg",
       "brand" : "Titan",
       "name": "Black Watch",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Watch Ltd",
       "price": "2000"
@@ -77,6 +85,7 @@
       "url": "https://m.media-amazon.com/images/I/71459fZyLBL._UX679_.jpg",
       "brand" : "Casio",
       "name": "Casio Analog-Digital Black Dial Men's Watch",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Watch Ltd",
       "price": "15492"
@@ -86,6 +95,7 @@
       "url": "https://m.media-amazon.com/images/I/61lE8OGWbvL._UX679_.jpg",
       "brand" : "Tommy Hilfiger",
       "name": "Tommy Hilfiger Analog Blue Dial Men's Watch",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Watch Ltd",
       "price": "14382"
@@ -94,7 +104,8 @@
       "id" : 11,
       "url": "https://m.media-amazon.com/images/I/71lYSEETh5L._SL1500_.jpg",
       "brand" : "beatXP",
-      "name": "beatXP Vega Neo 1.43” AMOLED Bluetooth Calling Smartwatch (Black Strap, 1.43)",
+      "name": "beatXP Vega Neo 1.43” AMOLED Bluetooth Calling Smartwatch",
+      "details" : "Bringing to you this watch designed with an elegant style and precision for stylish timepieces. The watch color complements overall persona when one wears it. It has a sizable dial that makes it reading time comfortable.",
       "category": "Watches",
       "seller": "Watch Ltd",
       "price": "2999"
@@ -104,6 +115,7 @@
       "url": "https://m.media-amazon.com/images/I/81MCqNLEYvL._UX625_.jpg",
       "brand" : "NIKE",
       "name": "Nike Mens Downshifter 12 Running",
+      "details" : "Breathable Mesh Uppers one-piece ultra-lightweight mesh knit upper has thousands of ventilation holes. It helps your feet dry and comfy. Feel Soft, Comfortable & Breathable with all day wear.The special veins design of the shoe body gives simplicity but not lack of fashion.",
       "category": "Shoes",
       "seller": "Watch Ltd",
       "price": "3995"
@@ -113,6 +125,7 @@
       "url": "https://m.media-amazon.com/images/I/813LtyrMWWL._AC_UL400_.jpg",
       "brand" : "NIKE",
       "name": "Men's Jordan Max Aura 4",
+      "details" : "Breathable Mesh Uppers one-piece ultra-lightweight mesh knit upper has thousands of ventilation holes. It helps your feet dry and comfy. Feel Soft, Comfortable & Breathable with all day wear.The special veins design of the shoe body gives simplicity but not lack of fashion.",
       "category": "Shoes",
       "seller": "Watch Ltd",
       "price": "20194"
@@ -122,9 +135,30 @@
       "url": "https://m.media-amazon.com/images/I/71cotkr8DhL._AC_UL400_.jpg",
       "brand" : "Adidas",
       "name": "Mens Classigy M Running Shoe",
+      "details" : "Breathable Mesh Uppers one-piece ultra-lightweight mesh knit upper has thousands of ventilation holes. It helps your feet dry and comfy. Feel Soft, Comfortable & Breathable with all day wear.The special veins design of the shoe body gives simplicity but not lack of fashion.",
       "category": "Shoes",
       "seller": "Watch Ltd",
       "price": "1495"
+    },
+    {
+      "id" : 15,
+      "url": "https://m.media-amazon.com/images/I/514NPRZ1AQL._AC_UY218_.jpg",
+      "brand" : "OnePlus",
+      "name": "OnePlus Nord Buds 2 ",
+      "details" : "Sweatproof, 60H Playtime Wireless, IPX5 Water Resistant, Environmental Noise Cancellation, Touch Controls and Voice Assistant, Fast Charging, Microphone Included",
+      "category": "Ear Buds",
+      "seller": "Amazon Ltd",
+      "price": "2989"
+    },
+    {
+      "id" : 16,
+      "url": "https://m.media-amazon.com/images/I/51jJs-kCh6S._AC_UY218_.jpg",
+      "brand" : "OnePlus",
+      "name": "OnePlus Buds Pro ",
+      "details" : "Sweatproof, 60H Playtime Wireless, IPX5 Water Resistant, Environmental Noise Cancellation, Touch Controls and Voice Assistant, Fast Charging, Microphone Included",
+      "category": "Ear Buds",
+      "seller": "Samsung Ltd",
+      "price": "9995"
     }
    
   ]
