@@ -40,6 +40,6 @@ The project relies on the following dependencies:
 - React: JavaScript library for building user interfaces.
 - React Router: Library for managing routing in React applications.
 - React Context API or props: Built-in state management solution in React.
-- Fetch: Library for making HTTP requests to the mock API.
+- Axios: Library for making HTTP requests to the mock API or you can simply use fetch.
 
 These dependencies are listed in the `package.json` file and will be installed automatically when running `npm install`.
