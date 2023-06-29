@@ -14,8 +14,8 @@ This is a small e-commerce website built using React. It includes features such 
 
 To get started with the project, follow the instructions below:
 
-1. Clone the repository: `git clone https://github.com/your-username/e-commerce-website.git`
-2. Navigate to the project directory: `cd e-commerce-website`
+1. Clone the repository: `git clone https://github.com/MVKarthikReddy/E-Commerce-Site-Using-React.git`
+2. Navigate to the project directory: `cd e-commerce-site`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and visit: `http://localhost:5173`
